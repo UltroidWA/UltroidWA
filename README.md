@@ -1,1 +1,1 @@
-# - 👋 Hi, I’m @Ultroid WhatsApp BOT
+# - 👋 Hi, I’m Ultroid WhatsApp BOT
