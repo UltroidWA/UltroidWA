@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+SL+Technical+Tips+Profile..."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Ultroid..."
             alt="Typing SVG"
         />
     </a>
@@ -49,7 +49,7 @@
 
 - 💫 **I am only a beginner developer.. 🌆**
 
-<div align="center"><img src="https://profile-counter.glitch.me/sltechnicaltips/count.svg" /><br>Profile Viewers</div>
+<div align="center"><img src="https://profile-counter.glitch.me/SLTechnicalTips/count.svg" /><br>Profile Viewers</div>
 
 <h1 align="center">
                                  🔥 Heys I'm  Ultroid 🔥 
@@ -59,9 +59,7 @@
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="30" width="40" /></a>
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="" height="30" width="40" /></a>
 </p>
-   <p align='center'>
-   <a href="https://YouTube.com/UltroidWA/" alt="made-with-python"> <img src="https://github.com/devSouvik/devSouvik/blob/master/gif2.gif.gif"width="500" /> </a>
-</p>
+   
 
     
 
